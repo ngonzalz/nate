@@ -1,4 +1,4 @@
-# nate
+# Nate Gonzalez
 
 👩‍💻 Career Switcher | Event Director ➡️ Aspiring Coder
 
